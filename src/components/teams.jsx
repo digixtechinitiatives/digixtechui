@@ -5,38 +5,38 @@ const people = [
       imageUrl:
         'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
     }, {
-        name: 'Leslie Alexander',
-        role: 'Co-Founder / CEO',
+        name: 'Olivia Anderson',
+        role: 'Senior Backend Developer',
+        imageUrl:
+          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      }, {
+        name: 'Noah Mitchell',
+        role: 'Senior Frontend Developer',
+        imageUrl:
+          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      }, {
+        name: 'Jackson Ward',
+        role: 'Senior Database Administrator',
+        imageUrl:
+          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      }, {
+        name: 'Mia Collins',
+        role: 'Systems Design Analyst',
+        imageUrl:
+          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      }, {
+        name: 'Isabella Foster',
+        role: 'Senior Fullstack Developer',
         imageUrl:
           'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
       }, {
         name: 'Leslie Alexander',
-        role: 'Co-Founder / CEO',
+        role: 'Graphic Designer',
         imageUrl:
           'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
       }, {
-        name: 'Leslie Alexander',
-        role: 'Co-Founder / CEO',
-        imageUrl:
-          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-      }, {
-        name: 'Leslie Alexander',
-        role: 'Co-Founder / CEO',
-        imageUrl:
-          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-      }, {
-        name: 'Leslie Alexander',
-        role: 'Co-Founder / CEO',
-        imageUrl:
-          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-      }, {
-        name: 'Leslie Alexander',
-        role: 'Co-Founder / CEO',
-        imageUrl:
-          'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-      }, {
-        name: 'Leslie Alexander',
-        role: 'Co-Founder / CEO',
+        name: 'Liam Bennett',
+        role: 'Content Writer',
         imageUrl:
           'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
       },
@@ -50,8 +50,7 @@ const people = [
           <div className="max-w-2xl">
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Meet our leadership</h2>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Libero fames augue nisl porttitor nisi, quis. Id ac elit odio vitae elementum enim vitae ullamcorper
-              suspendisse.
+            Our leadership team comprises experienced professionals who are passionate about guiding our organization toward success. With their diverse expertise, they steer our ship with dedication, innovation, and a shared commitment to excellence. Get to know the visionaries who drive our mission forward.
             </p>
           </div>
           <ul role="list" className="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">

@@ -3,9 +3,9 @@ import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
-  { name: 'Product', href: '#' },
+  { name: 'Courses', href: '#' },
   { name: 'Features', href: '#' },
-  { name: 'Marketplace', href: '#' },
+  { name: 'Documentation', href: '#' },
   { name: 'Company', href: '#' },
 ]
 
@@ -21,7 +21,7 @@ function TopPage() {
               <span className="sr-only">Your Company</span>
               <img
                 className="h-8 w-auto"
-                src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                src="/imgs/header.png"
                 alt=""
               />
             </a>
@@ -57,7 +57,7 @@ function TopPage() {
                 <span className="sr-only">Your Company</span>
                 <img
                   className="h-8 w-auto"
-                  src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                  src="/imgs/header.png"
                   alt=""
                 />
               </a>
@@ -122,11 +122,10 @@ function TopPage() {
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Data to enrich your online business
+            Empowering Novices to Learn Tech: Enhancing Your Online Business with Data"
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
+            Join us to learn tech effortlessly. We're here to empower beginners with accessible resources and personalized guidance. Discover the world of technology with us today!
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a

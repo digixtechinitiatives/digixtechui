@@ -40,11 +40,8 @@ const links = [
           <div className="mx-auto max-w-2xl lg:mx-0">
             <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Work with us</h2>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, earum quam! Dolores aspernatur aut doloremque odit ipsa amet maiores molestias nemo quam illum itaque, enim et reiciendis, omnis dolorum iste!
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, minus? Repudiandae expedita cupiditate similique reiciendis error dolore fugit odio delectus porro, obcaecati amet maiores nihil. Nostrum ratione deserunt hic in.
-            </p>
+            At our learning hub, we offer a diverse range of tech-focused services, including web development, software engineering, graphic design, database design, and cloud services. Whether you're a newbie or looking to level up your skills, our expert-led courses and hands-on projects provide the perfect environment to grow. Join us on this exciting journey of discovery and development!
+                 </p>
           </div>
         </div>
       </div>
